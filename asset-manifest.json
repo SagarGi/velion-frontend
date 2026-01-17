@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/velion-frontend/static/css/main.5b90c00b.css",
-    "main.js": "/velion-frontend/static/js/main.0b075602.js",
+    "main.js": "/velion-frontend/static/js/main.c42babf3.js",
     "index.html": "/velion-frontend/index.html",
     "main.5b90c00b.css.map": "/velion-frontend/static/css/main.5b90c00b.css.map",
-    "main.0b075602.js.map": "/velion-frontend/static/js/main.0b075602.js.map"
+    "main.c42babf3.js.map": "/velion-frontend/static/js/main.c42babf3.js.map"
   },
   "entrypoints": [
     "static/css/main.5b90c00b.css",
-    "static/js/main.0b075602.js"
+    "static/js/main.c42babf3.js"
   ]
 }
