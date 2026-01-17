@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/velion-dkn/static/css/main.5b90c00b.css",
+    "main.js": "/velion-dkn/static/js/main.0b075602.js",
+    "index.html": "/velion-dkn/index.html",
+    "main.5b90c00b.css.map": "/velion-dkn/static/css/main.5b90c00b.css.map",
+    "main.0b075602.js.map": "/velion-dkn/static/js/main.0b075602.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b90c00b.css",
+    "static/js/main.0b075602.js"
+  ]
+}
